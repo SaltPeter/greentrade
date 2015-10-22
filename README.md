@@ -1,5 +1,6 @@
 # greentrade
-##Stock trading software solution
+##Stock trading simulation software
+##Real-time stocks that change to reflect the real stock prices and volume.
 Using Yahoo Finance API to grab stock ticker data.
 
 Tables  | users | type | size
